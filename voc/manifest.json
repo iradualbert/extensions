@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "Albert Launcher",
+    "description": "Quick Launch Albert Social Media",
+    "version": "1.0.0",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
